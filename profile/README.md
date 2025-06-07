@@ -1,7 +1,7 @@
 # Głusza
 
 🎛️ Indie tech lab for music-focused tools.  
-🛠️ Run by @barmiedev — shipped with care, vision, and a little noise.  
+🛠️ Run by [barmiedev](https://github.com/barmiedev) — shipped with care, vision, and a little noise.  
 
 We build tools that help artists, not just users.  
 Everything here is open, practical, and raw — no fluff, no VC buzzwords.  
